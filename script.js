@@ -33,14 +33,19 @@ const poems = [
   },
   {
     author: "Christian",
-    poem: "Roses are red \n Violets are blue \n  \n Blade is a good movie",
+    poem: "Roses are red \n Violets are blue \n Blade is a good movie",
     image: "gizmo.jpg",
   },
   {
     author: "Minnie",
-    poem: "Roses are red, violets are blue. My life is a mess what should I do?",
+    poem: "Roses are red \n Violets are blue \n My life is a mess \n what should I do?",
     image: "rose.jpeg",
   },
+  {
+    author: "Martin",
+    poem: "Roses are red \n Violets are blue \n How did I get here \n wait your here too?",
+    image: "flower-martin.jpeg",
+  }
 
 ];
 

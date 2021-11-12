@@ -30,6 +30,12 @@ const poems = [
     author: "Harman",
     poem: "Roses are red \n Violets are blue \n It's raining in vancouver \n tell me something new",
     image: "http://images.dailyhive.com/20161014085500/vancouver-rain-storm-gastown.jpg"
+  },
+  {
+    author: "Christian",
+    poem: "Roses are red \n Violets are blue \n  \n Blade is a good movie",
+    image: "gizmo.jpg",
+  }
   }
 ];
 

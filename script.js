@@ -16,8 +16,8 @@ const poems = [
   },
   {
     author: "Minnie",
-    poem: "Roses are red",
-    image: "random.png",
+    poem: "Roses are red, violets are blue. My life is a mess what should I do?",
+    image: "rose.jpeg",
   },
 
 ];

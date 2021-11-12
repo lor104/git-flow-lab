@@ -25,6 +25,11 @@ const poems = [
     author: "Martin",
     poem: "Roses are red \n Violets are blue \n Why do you laugh? \n Am I a joke to you?",
     image: "flower-martin.jpg"
+  },
+  {
+    author: "Harman",
+    poem: "Roses are red \n Violets are blue \n It's raining in vancouver \n tell me something new",
+    image: "http://images.dailyhive.com/20161014085500/vancouver-rain-storm-gastown.jpg"
   }
 ];
 

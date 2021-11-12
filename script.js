@@ -35,8 +35,13 @@ const poems = [
     author: "Christian",
     poem: "Roses are red \n Violets are blue \n  \n Blade is a good movie",
     image: "gizmo.jpg",
+  },
+  {
+    author: "Minnie",
+    poem: "Roses are red",
+    image: "random.png",
   }
-  }
+
 ];
 
 let displayPoems = (array) => {
